@@ -1,1 +1,1 @@
-This is a read me file for the task 0 to write a script for printing the current working directory
+0. Write a script that prints the absolute path name of the current working directory.
