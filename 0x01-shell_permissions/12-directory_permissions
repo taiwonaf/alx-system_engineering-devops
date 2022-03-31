@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -m 751 my_dir
+mkdir my_dir -m=751
