@@ -1,3 +1,4 @@
 #!/bin/bash
 0 string SCHOOL school data
-|:nine school
+|:mime School
+file -C -m school.mgc
